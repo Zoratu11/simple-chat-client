@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.fixedBar {
+  position: fixed;
+  bottom: 0;
+}
+
+.fixedBar > input {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.fixedBar > button {
+  display: inline-block;
+  font-size: 20px;
+}
+
+#inputMessage {
+  width: 60vw;
+}
+
+.message {
+  font-size: 18px;
+}
